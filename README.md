@@ -1,4 +1,4 @@
-![logo](https://th.bing.com/th/id/OIP.jaun7P9Wvx2jytooaandUwHaC9?pid=ImgDet&rs=1)
+![logo](https://images.ctfassets.net/wfutmusr1t3h/4BY99dJwMhg4Kr18rTeGCb/404bdc325f3b93f60e6d613c96c5d1af/This_Grid_1200x640__6_.png?w=768&q=75)
 <h1 align="center">Hi 👋, This side Pooja Sen Verma</h1>
 <h3 align="center">A Passionate Learn New Skills From India</h3>
 <img align="right" alt="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
